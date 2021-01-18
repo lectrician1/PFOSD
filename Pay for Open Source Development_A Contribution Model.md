@@ -1,4 +1,4 @@
-#Pay for Open Source Development (PFOSD): A Contribution Model
+# Pay for Open Source Development (PFOSD): A Contribution Model
 
 Open Source projects often run into the problem of being not as useful as closed-source, paid alternatives.
 
@@ -6,43 +6,43 @@ A solution to this problem could be allowing for monetary contributions behind i
 
 This gives the project's contributors a motivation to contribute for a monetary reward and ultimately push the project beyond its typical contributor and financial resources.
 
-##Explanation:
+## Explanation:
 
 PFOSD is implemented using a issue/feature management software typically hosted on a website.
 
-###Users or companies can
+### Users or companies can
 - Create and document specific new issues and feature requests
 - Commit their own monetary funds to the possible completion of requests
 
-###Contributor individuals/teams can
+### Contributor individuals/teams can
 - Commit to completing a request
 - Be paid all of the contributions behind the request for all of the specifics of the request being fulfilled
 
-##Problems With Current Open Source Development Contribution Models
+## Problems With Current Open Source Development Contribution Models
 
 PFOSD can be used as an additional contribution model all of these currently existing models.
 
-###Company Managed, Company Funded Development
-####Examples
+### Company Managed, Company Funded Development
+#### Examples
 - React (Facebook)
 
-####Problems
+#### Problems
 This model is monetarily funded and usually yields the highest-quality product, but because it is company-managed, the company's priorities for development are going to come over the users'.
 
 This can act as a detractor for users and can cause open or closed sourced alternatives to arise. This fragments the userbase the project and its offerings attract, creates decentralization and destandardization in the industry, and requires alternatives to re-develop and sometimes ironicly mirror development of the original/similar/competing product. It generates inefficencies for the industry as a whole.
 
 
-###Community Managed
-####Majority Company Funded Development Examples
+### Community Managed
+#### Majority Company Funded Development Examples
 - OpenStreetMap
 - Express.js
 - Widely-used programming libraries
 
-####Majority Community Funded Development Examples
+#### Majority Community Funded Development Examples
 - Wikipedia Foundation
 - Narrowly-used programming libraries (Sponsoring through Github, etc. )
 
-####Problems
+#### Problems
 Community Managed (nomatter waht the majority funding source), allows for monetary contributions as well, but is limited to the funding provided every year and the allocation of that funding decided by the leadership of that community.
 
 Although the leadership is usually democratically-elected and aims to fulfill the community's interests and requests, not all requests will be fulfilled or some requests might be unknowingly misrepresented.
@@ -50,7 +50,7 @@ Although the leadership is usually democratically-elected and aims to fulfill th
 
 ## Examples
 
-##Chat Service
+### Chat Service
 A hypothetical open source community managed public chat service does not display embeds based on the OpenGraph protocol when links are present in their messages (like Discord and Slack do). Their dedicated paid development team is small and wants to focus on larger backend development, such as currently building an API. Small, for-convenience features like these are not a priority.
 
 However, the chat service has just implemented the PFOSD model using a custom wiki/forum that allows users post requests and donate contributions for the requests.
